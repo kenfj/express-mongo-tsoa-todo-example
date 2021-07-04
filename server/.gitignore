@@ -1,0 +1,6 @@
+build
+coverage
+node_modules
+
+# https://qiita.com/azukiazusa/items/b0365c95e6509ec57f7a#gitignore
+globalConfig.json
